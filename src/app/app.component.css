@@ -1,0 +1,71 @@
+.myimg
+{
+   background-color:white;
+   padding-left: 20%;
+   padding-top: 2%;
+}
+.contain1
+{
+    background-color: #142852;
+    margin-top: -8.9em;
+    padding-bottom: 5em;
+}
+p.myc1
+{ 
+    text-align: center;
+    background-color: #142852;
+    color: #ffbb33;
+    font-size: 1.4em;
+    padding-top: 8.7em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.myc2
+{
+    text-align: center;
+    color: white;
+    margin-top: -0.3em;
+    font-size: 4em;
+    font-family:'Times New Roman', Times, serif;
+}
+p.myc2s
+{
+    text-align: center;
+    color: white;
+    margin-top:-1.2em;
+    font-size: 4em;
+    font-family:'Times New Roman', Times, serif;
+}
+.contain2
+{
+    background-color: #142852;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7em;
+    margin-top: -3em;
+}
+p.myc3
+{
+    font-size: 1.4em;
+}
+p.myc4
+{
+    font-size: 1em;
+    background-color: #142852;
+    margin-top: -0.6em;
+}
+.contain3
+{
+    background-color: #142852;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35em;
+    margin-top: -23.7em;
+}
+.contain4
+{
+    background-color: #142852;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 63em;
+    margin-top: -24em;
+}
